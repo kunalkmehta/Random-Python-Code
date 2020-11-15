@@ -1,0 +1,12 @@
+customer_id,cutomer_account,first_name,last_name,email_address,age,gender,customer_segment,transaction_d
+US-269345,MA253269345717,Michael,Smith,Michael_Smith523@abc.com,11,F,10,2532693
+GR-275023,MA313275023793,Michael,Johnson,Michael_Johnson892@abc.com,19,M,6,3132750
+US-267098,MA371267098704,James,Williams,James_Williams116@abc.com,26,F,9,3712670
+IN-275108,MA405275108813,Robert,Johnson,Robert_Johnson200@abc.com,29,F,8,4052751
+US-274402,MA348274402837,John,Smith,John_Smith147@abc.com,31,M,7,3482744
+CA-273067,MA427273067702,Maria,Garcia,Maria_Garcia922@abc.com,22,F,5,4272730
+GR-272484,MA286272484897,Robert,Brown,Robert_Brown839@abc.com,41,F,4,2862724
+GR-269867,MA270269867767,James,Johnson,James_Johnson900@abc.com,39,F,1,2702698
+GR-271489,MA307271489662,William,Smith,William_Smith753@abc.com,24,M,9,3072714
+AU-274562,MA405274562919,Mary,Smith,Mary_Smith471@abc.com,26,M,6,4052745
+CA-273506,MA322273506961,James,Brown,James_Brown143@abc.com,26,M,3,3222735
