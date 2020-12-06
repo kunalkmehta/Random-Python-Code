@@ -1,0 +1,4 @@
+customer_id,age,gender,home_airport,ticket_num,passport_num,first_name,last_name,email,cust_profile,tel
+898989,27,F,4,GR-271601,MA380271608634,Parul,Sharma,parul_sharma@abc.com,exp03,3802711
+787878,26,F,10,US-269342,MA253269345735,Tiffany,Smith,tiffany_smith@abc.com, ,2532692
+676767,25,F,4,CA-270673,MA432270678936,Aisha,Alam,aisha_lam@abc.com,exp02,4322703
