@@ -1,6 +1,6 @@
 ######## Program Begins Here ########
 
-#### Inport Python libraries ####
+#### Import Python libraries ####
 
 import sqlite3
 from google.cloud import storage 
@@ -12,7 +12,7 @@ import sys
 
 #### Establish Connetion ####
 
-cnx = mysql.connector.connect(user='<Your User Name>', password='<Your Password', host='<Your Public IP Adress of Cloud SQL>', 
+cnx = mysql.connector.connect(user='<Your User Name>', password='<Your Password>', host='<Your Public IP Adress of Cloud SQL>', 
                               database='<Your Database Name>')
 
 cursor = cnx.cursor()
